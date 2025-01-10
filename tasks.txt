@@ -12,6 +12,7 @@ T4:  First get a value from input using the new
 T5: Get 3 numbers from the user, call them x, y and z
 respectively. Then put (x + (y - z)) * z in memory
 at address 5
+
 T6: With ADD 1 [?] as your only math operator, add 1 to R5 until 
 it is 101  
 
@@ -76,7 +77,7 @@ Then work out ((X == 6) or ((X + 2) >  4)) and
 
 t17 
 Give an input x. 
-While X < 100 add 1 to (and update) X
+While X < 100 add 1 to x (and update)
 
 
 
@@ -88,3 +89,11 @@ set memory address (M+1) equal to 0 then (M+2) = 1 etc..
 T18.B
 Now that you have a list in memory, write code to access an index given by INP.
 Keep asking for INP and printing the value until you receive -1 in INP. (There is a PRINT command)
+
+T19 
+Make a program that does the ratio calculations you did for your dress.
+For example let it ask for the photo dimensions then one of your real ones 
+like you did for the dress and return the real size dimensions for the dress.
+
+Once you have done the above, ask if the user wants to continue and if they input "yes" 
+then repeat the process again
