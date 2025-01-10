@@ -16,6 +16,8 @@ T6: With ADD 1 [?] as your only math operator, add 1 to R5 until
 it is 101  
 
 T7: Take an input and times it by itself
+
+
 T8: Take an input in minutes and 
 put the number of days in memory address 1, 
 the number of hours in memory address 2, 
